@@ -1,0 +1,27 @@
+h1 {
+  font-family:Merienda One;
+  margin-top: 30px
+}
+.rounded-image{
+  border-radius: 25%
+}
+
+h3 {
+  font-family: Merienda One;
+}
+
+h4{
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+div {
+    width: 100%;
+    text-align: center;
+}
+img {
+
+    margin: 0 auto;
+}
+.underline {
+  text-decoration: underline
+}
